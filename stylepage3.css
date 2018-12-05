@@ -1,0 +1,17 @@
+body{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+header{
+	background-color: #61C3D6;
+	background-size: cover;
+	text-align: center;
+}
+#imagenhooked{
+	padding: 200px 0;
+	background-color: #61C3D6;
+	background-size: cover;
+	text-align: center;
+}
+
+

@@ -1,0 +1,84 @@
+body{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+header{
+	background-color: #61C3D6;
+	background-size:contain;
+	text-align: center;
+}
+#imagenhooked{
+	padding: 0px 0;
+	background-color: #61C3D6;
+	background-size: cover;
+	text-align: center;
+}
+#masvendidos {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #FCC901;
+	background-color: #FFFFFF;
+	text-align: center;
+	padding: 30px 60px 60px;
+}
+#masvendidos h1{
+	padding-bottom: 30px;
+}
+#masvendidos h5 {
+	color:#000000; 
+	padding-top: 15px; 
+}
+#masvendidos p{
+	color: #000000;
+}
+.img-fluid1{
+	height: 281px;
+	width: 192px; 
+}
+.img-fluid2{
+	height: 281px;
+	width: 192px; 
+}
+footer{
+	background-color: #61C3D6;
+	background-size: cover;
+	padding: 40px;
+}
+
+footer h3{
+	color: #fff;
+	font-size: 30px;
+	font-weight: 200px;
+}
+#nuevos h2{
+	text-align: center; 
+	font-style: bold;
+	font-size: 70px;
+}
+
+footer p{
+	color:#fff;
+}
+
+footer ul {
+	text-align: left;
+}
+
+footer li{
+	color:#fff;
+	list-style: none;
+	text-align: left;
+}
+#izquierda{
+	text-align: left
+}
+#derecha {
+	text-align: right
+}
+
+.img-fluid7 {
+	weight: 50px;
+	height: 50px
+}
+#sec-form{
+	padding: 80px 0 80px 0;
+}
